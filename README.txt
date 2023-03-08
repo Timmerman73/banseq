@@ -1,3 +1,6 @@
+This project was created by me and Lindsey. I programmed the alignment algoritm. Lindsey made the static elements of the GUI. 
+I made the GUI active and used made the buttons interactive.
+
 BANSEQ deelopdracht 1 - Tim van der Lee & Lindsey Tichelaar (1126607 & 1130444)
 
 READ ME
